@@ -1,7 +1,7 @@
 
 ### OLA PESSOAS EU SOU ADAS CODE 😆🚀
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adascode24&show_icons=true&theme=radical)
 
 
 
@@ -21,4 +21,4 @@
 
 ## Linguagem mais usada
 
-[![Top linguagem ](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/adascode24/github-readme-stats)
+[![Top linguagem ](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Adascode24/github-readme-stats)
